@@ -10,6 +10,7 @@ Extracted city information such as streets, intersections, buildings, parks, and
 
 ## Milestone 2
 Drew the map to visualize the city features. Edited UI to allow for users to interact with the map, these iteractions included panning, zooming and searching for streets and intersections.
+
 ![](mapzoomandpandemo.gif)
 
 ## Milestone 3
