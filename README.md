@@ -11,7 +11,7 @@ Extracted city information such as streets, intersections, buildings, parks, and
 ## Milestone 2
 Drew the map to visualize the city features. Edited UI to allow for users to interact with the map, these iteractions included panning, zooming and searching for streets and intersections.
 
-![](mapzoomandpandemo.gif)
+![](mapZoomPanDemo.gif)
 
 ## Milestone 3
 Wrote algorithms to find travel routes between between intersectoions. We initially used the Depth First Search (DFS) algorithm but then implemented an A* greedy algorithm to achieve faster run times. 
