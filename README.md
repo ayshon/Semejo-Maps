@@ -11,7 +11,7 @@ Extracted city information such as streets, intersections, buildings, parks, and
 ## Milestone 2
 Drew the map to visualize the city features. Edited UI to allow for users to interact with the map, these iteractions included panning, zooming and searching for streets and intersections.
 <p>
-  <img width="460" height="300" src="https://imgur.com/a/ifR7a7h">
+  <img width = "500px" src="https://imgur.com/uNtxWyF.gif" alt = "Demo of map zooming and panning">
 </p>
 
 ## Milestone 3
