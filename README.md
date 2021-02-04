@@ -1,6 +1,8 @@
 # Semejo-Maps
 ECE297 Geographic Information System (GIS) Project
 
+The application used the OpenStreetMap database and an intuitive Graphical User Interface (GUI) to display city information. Other features included an intersection finder, route finder, map zooming and panning. Users could load other city information as well. 
+
 The code is private to avoid academic offenses.
 
 The project was divided into 4 milestones:
