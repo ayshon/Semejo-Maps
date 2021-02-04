@@ -17,7 +17,7 @@ Drew the map to visualize the city features. Edited UI to allow for users to int
 ![](mapZoomPanDemo.gif)
 
 ## Milestone 3
-Wrote algorithms to find travel routes between between intersections. We initially used the Depth First Search (DFS) algorithm but then implemented an A* greedy algorithm to achieve faster run times. 
+Wrote algorithms to find travel routes between between intersections. We initially used the Depth First Search (DFS) algorithm but then implemented an A* greedy algorithm to achieve faster run times. The user had the option to find vehicle and walking routes.
 
 ### Demo
 ![](routeFinderDemo.gif)
